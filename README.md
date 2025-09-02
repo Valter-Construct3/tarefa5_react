@@ -1,3 +1,4 @@
+
 # 🎬 TMDB React App - Tarefa 5
 
 Uma aplicação moderna em **React + Vite** que permite buscar filmes, ver detalhes e montar sua própria lista de favoritos usando a API do **TMDB**.  
@@ -27,4 +28,8 @@ Uma aplicação moderna em **React + Vite** que permite buscar filmes, ver detal
 
 ## Autor
 Valter Filho ([@Valter-Construct3](https://github.com/Valter-Construct3))
+
+## Como ver, onde ver:
+
+https://calm-tarsier-08a99b.netlify.app/
 
