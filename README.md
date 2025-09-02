@@ -25,5 +25,6 @@ Uma aplicação moderna em **React + Vite** que permite buscar filmes, ver detal
 
 ---
 
-## 📂 Estrutura do Projeto
+## Autor
+Valter Filho ([@Valter-Construct3](https://github.com/Valter-Construct3))
 
