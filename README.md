@@ -1,12 +1,29 @@
-# React + Vite
+# 🎬 TMDB React App - Tarefa 5
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma aplicação moderna em **React + Vite** que permite buscar filmes, ver detalhes e montar sua própria lista de favoritos usando a API do **TMDB**.  
 
-Currently, two official plugins are available:
+💡 Projeto desenvolvido como parte da disciplina de **Desenvolvimento Web/React**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌟 Funcionalidades Principais
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔎 **Busca de filmes**: encontre qualquer filme pelo nome  
+- 📝 **Detalhes completos**: veja elenco, diretor, sinopse e avaliação  
+- ⭐ **Favoritos**: adicione ou remova filmes da sua lista pessoal  
+- 📄 **Persistência**: favoritos salvos no `localStorage`  
+- ⏳ **Loading e erros**: feedback visual enquanto carrega os dados  
+- 🔢 **Paginação**: navegue facilmente pelos resultados  
+
+---
+
+## 🖼️ Tela Inicial
+
+- Apresenta uma lista de filmes populares  
+- Campo de busca estilizado com botão de pesquisa  
+- Cards com pôster, título, ano, botão de favoritos e link para detalhes  
+
+---
+
+## 📂 Estrutura do Projeto
+
